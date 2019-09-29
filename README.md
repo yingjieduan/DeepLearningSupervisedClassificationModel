@@ -1,0 +1,2 @@
+# DeepLearningSupervisedClassificationModel
+Generic deeplearning classification model
