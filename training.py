@@ -16,7 +16,7 @@ from perceptron_network_design import multilayer_perceptron
 ################################################################
 #-------------- I System configuration -------------------------
 # Input and Output folders
-input_data = "./resource/diabetes.csv"
+input_data = "./resource/standardized_resampled_customer_data_ratio20.csv"
 output_folder = "./output/"
 output_model = "./output/DeepLearningModel/model"
 output_standardization_scaler = "./output/Standardization/scaler.pkl"
